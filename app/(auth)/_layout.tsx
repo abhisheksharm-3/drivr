@@ -11,8 +11,7 @@ export default function Layout() {
     <Stack>
       <Stack.Screen name="welcome" options={{ headerShown: false }} />
         <Stack.Screen name="sign-up" options={{ headerShown: false }} />
-        <Stack.Screen name="sign-in
-        " options={{ headerShown: false }} />
+        <Stack.Screen name="sign-in" options={{ headerShown: false }} />
     </Stack>
   );
 }
